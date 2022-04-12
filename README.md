@@ -30,7 +30,9 @@ Projects i have worked:
 
 <img src="https://user-images.githubusercontent.com/100270525/163028307-d3c50f6f-2e90-469e-af80-cb0f5e0405a6.gif" width="500" height="250" />
 
+* Winch Price Predictor using ML and DL
 
+<img src="https://user-images.githubusercontent.com/100270525/163032420-b20a9997-c626-43e5-b3d3-080061a65133.gif" width="500" height="250" />
 
 
 
