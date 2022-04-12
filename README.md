@@ -3,9 +3,9 @@ Hallo Leute, Ich bin Nithin , I am a college student , a newbie trying to get so
 
 
 Skills and Experiences 
-🐍 Python
-💟Data Analysis
-🖥️Tableau , PowerBI
+1.🐍 Python
+2.💟Data Analysis
+3.🖥️Tableau , PowerBI
 
 🏛️Finished intern at @Forsk_Coding 
 
