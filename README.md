@@ -21,7 +21,6 @@ Skills and Experiences\
 Projects i have worked:
 * Customer's Review Analyzer 
 <img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif" width="400" height="200" />
-<hr>
 
 * Caller Data visualization using PowerBI and Tableau
 
@@ -29,7 +28,6 @@ Projects i have worked:
 <p align="left">
   <img src="https://user-images.githubusercontent.com/100270525/163030694-c2e7d134-32a4-451e-a693-8cfa3a626af3.png " width="350">
 </p>
-<hr>
 
 * Pokemon Character Classifier using ML and DL
 
