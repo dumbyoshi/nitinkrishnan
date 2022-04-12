@@ -19,13 +19,14 @@ Skills and Experiences\
 
 
 Projects i have worked:\
-"*"    Customer's Review Analyzer 
+* Customer's Review Analyzer 
 
 
-"*"    Caller Data visualization using PowerBI and Tableau
+* Caller Data visualization using PowerBI and Tableau
 
 
-"*"    Pokemon Character Classifier using ML and DL
+* Pokemon Character Classifier using ML and DL
+<img src="https://i.gifer.com/BZDh.gif" width="40" height="40" />
 
 
 
