@@ -46,6 +46,6 @@ Some of the projects i have worked:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkrishnan)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
+
 ![Profile views](https://gpvc.arturio.dev/nitinkrishnan)  
-</p>
+
