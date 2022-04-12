@@ -1,5 +1,5 @@
 Hallo Leute, Ich bin Nithin , I am a college student , a newbie trying to get some knowledge on Data Science, i am pretty much excited working on Python and Data Science Projects. I love to study about Data Sciences. My dream Job is to become a Data Scientist in a well known company. Planning to move on to Germany which is my dream country.
-
+<hr />
 
 Skills and Experiences 
 🐍 Python
