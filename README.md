@@ -23,12 +23,12 @@ Projects i have worked:
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif" width="400" height="200" />
 
-* ***Caller Data visualization using PowerBI and Tableau
+* ***Caller Data visualization using PowerBI and Tableau***
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163028972-ef169b85-cb0e-462d-bc1e-7cec68405144.gif" width="400" height="200" />
 </p>
 <p>
-* Pokemon Character Classifier using ML and DL
+* ***Pokemon Character Classifier using ML and DL***
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163028307-d3c50f6f-2e90-469e-af80-cb0f5e0405a6.gif" width="400" height="200" />
 </p>
