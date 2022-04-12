@@ -19,24 +19,23 @@ Skills and Experiences\
 
 
 Projects i have worked:
-* Customer's Review Analyzer 
+* ***Customer's Review Analyzer*** 
+<p align = "center">
 <img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif" width="400" height="200" />
 
-* Caller Data visualization using PowerBI and Tableau
-<p>
+* ***Caller Data visualization using PowerBI and Tableau
+<p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163028972-ef169b85-cb0e-462d-bc1e-7cec68405144.gif" width="400" height="200" />
-<img src="https://user-images.githubusercontent.com/100270525/163033148-1cc7fd2c-d5a9-46a0-9c67-1cf4cffc7564.png" width="400" height="200" />
 </p>
 <p>
 * Pokemon Character Classifier using ML and DL
-<p>
+<p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163028307-d3c50f6f-2e90-469e-af80-cb0f5e0405a6.gif" width="400" height="200" />
-<img src="https://user-images.githubusercontent.com/100270525/163034006-39afaffd-7be2-45be-b727-8d87039aeb75.gif" width="400" height="200" />
 </p>
 
-<hr style="height:2px;border-width:0;color:red;background-color:white"></hr>
+<hr>
 
-* **Winch Price Predictor using ML and DL**
+* ***Winch Price Predictor using ML and DL***
 
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163032420-b20a9997-c626-43e5-b3d3-080061a65133.gif" width="400" height="200" />
