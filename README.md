@@ -21,7 +21,7 @@ Skills and Experiences\
 Projects i have worked:
 
 * Customer's Review Analyzer 
-<img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif)" width="500" height="250" />
+<img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif" width="500" height="250" />
 
 * Caller Data visualization using PowerBI and Tableau
 
