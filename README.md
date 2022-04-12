@@ -6,7 +6,6 @@ Skills and Experiences\
 1.🐍 Python\
 2.💟Data Analysis\
 3.🖥️Tableau , PowerBI
-
 🏛️Finished intern at @Forsk_Coding 
 
 <hr>
@@ -16,17 +15,17 @@ Skills and Experiences\
 - 📬 How to reach me: nithinkrish334@gmail.com 
 - 🎮 Am a Gamer:video_game: plays video games every free time i get 
 
-
 <hr>
 
 
 Projects i have worked:\
-"*" Customer's Review Analyzer 
-
-2. Caller Data visualization using PowerBI and Tableau
+"*"    Customer's Review Analyzer 
 
 
-Pokemon Character Classifier using ML and DL
+"*"    Caller Data visualization using PowerBI and Tableau
+
+
+"*"    Pokemon Character Classifier using ML and DL
 
 
 
