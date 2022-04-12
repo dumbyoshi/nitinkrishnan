@@ -2,7 +2,7 @@ Hallo Leute, Ich bin Nithin , I am a college student , a newbie trying to get so
 <hr>
 
 
-Skills and Experiences 
+Skills and Experiences\
 1.🐍 Python\
 2.💟Data Analysis\
 3.🖥️Tableau , PowerBI\
