@@ -34,7 +34,7 @@ Projects i have worked:
 <img src="https://user-images.githubusercontent.com/100270525/163034006-39afaffd-7be2-45be-b727-8d87039aeb75.gif" width="400" height="200" />
 </p>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:red;background-color:white">
 
 * Winch Price Predictor using ML and DL
 
