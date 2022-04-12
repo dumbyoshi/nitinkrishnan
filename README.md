@@ -36,7 +36,7 @@ Projects i have worked:
 
 <hr style="height:2px;border-width:0;color:red;background-color:white"></hr>
 
-* Winch Price Predictor using ML and DL
+* **Winch Price Predictor using ML and DL**
 
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163032420-b20a9997-c626-43e5-b3d3-080061a65133.gif" width="400" height="200" />
