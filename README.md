@@ -5,7 +5,7 @@ Hallo Leute, Ich bin Nithin , I am a college student , a newbie trying to get so
 Skills and Experiences\
 1.🐍 Python\
 2.💟Data Analysis\
-3.🖥️Tableau , PowerBI
+3.🖥️Tableau , PowerBI\
 🏛️Finished intern at @Forsk_Coding 
 
 <hr>
@@ -23,19 +23,19 @@ Projects i have worked:
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif" width="400" height="200" />
 
-* ***Caller Data visualization using PowerBI and Tableau***
+<h1 align ="center">Caller Data visualization using PowerBI and Tableau</h1>
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163028972-ef169b85-cb0e-462d-bc1e-7cec68405144.gif" width="400" height="200" />
 </p>
 
-* ***Pokemon Character Classifier using ML and DL***
+  <h1 align ="center">Pokemon Character Classifier using ML and DL</h1>
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163028307-d3c50f6f-2e90-469e-af80-cb0f5e0405a6.gif" width="400" height="200" />
 </p>
 
 <hr>
 
-* ***Winch Price Predictor using ML and DL***
+  <h1 align ="center">Winch Price Predictor using ML and DL</h1>
 
 <p align ="center">
 <img src="https://user-images.githubusercontent.com/100270525/163032420-b20a9997-c626-43e5-b3d3-080061a65133.gif" width="400" height="200" />
