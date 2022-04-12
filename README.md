@@ -27,7 +27,7 @@ Projects i have worked:
 * Caller Data visualization using PowerBI and Tableau
 
 <img src="https://user-images.githubusercontent.com/100270525/163028972-ef169b85-cb0e-462d-bc1e-7cec68405144.gif" width="500" height="250" />
-<p align="right">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/100270525/163030694-c2e7d134-32a4-451e-a693-8cfa3a626af3.png " width="350">
 </p>
 <hr>
