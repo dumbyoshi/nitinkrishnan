@@ -5,7 +5,7 @@ Hallo Leute, Ich bin Nithin , I am a college student , a newbie trying to get so
 Skills and Experiences\
 1.🐍 Python\
 2.💟Data Analysis\
-3.🖥️Tableau , PowerBI\
+3.🖥️Tableau , PowerBI
 
 🏛️Finished intern at @Forsk_Coding 
 
@@ -16,12 +16,17 @@ Skills and Experiences\
 - 📬 How to reach me: nithinkrish334@gmail.com 
 - 🎮 Am a Gamer:video_game: plays video games every free time i get 
 
-Projects i have worked:
-!. Customer's Review Analyzer 
+
+<hr>
+
+
+Projects i have worked:\
+"*" Customer's Review Analyzer 
 
 2. Caller Data visualization using PowerBI and Tableau
 
-3.Pokemon Character Classifier using ML and DL
+
+Pokemon Character Classifier using ML and DL
 
 
 
