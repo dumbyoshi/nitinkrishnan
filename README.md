@@ -27,7 +27,7 @@ Projects i have worked:\
 
 * Pokemon Character Classifier using ML and DL
 
-<img src="https://user-images.githubusercontent.com/100270525/163027356-1380615c-db58-4120-931e-9e831dfa7085.gif" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/100270525/163028307-d3c50f6f-2e90-469e-af80-cb0f5e0405a6.gif" width="500" height="400" />
 
 
 
