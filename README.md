@@ -28,7 +28,7 @@ Projects i have worked:\
 * Pokemon Character Classifier using ML and DL
  ![BZDh](https://user-images.githubusercontent.com/100270525/163027356-1380615c-db58-4120-931e-9e831dfa7085.gif)
 
-<img src="https://i.gifer.com/BZDh.gif" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/100270525/163027356-1380615c-db58-4120-931e-9e831dfa7085.gif" width="40" height="40" />
 
 
 
