@@ -3,9 +3,6 @@ Hallo Leute Ich bin Nithin :person_with_blond_hair: I am Student , a newbie tryi
 
 Skills: Python/Power BI/Data Analysis/Tableau
 
-hr.new4 {
-  border: 1px solid red;
-}
 
 - 🌱 I’m currently learning Python and Data analytics 
 - 🤔 I’m looking for help with Data Science , Machine Learning,Deep Learning and Artificial Intelligence 
