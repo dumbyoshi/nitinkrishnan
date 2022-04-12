@@ -1,4 +1,4 @@
-Hallo Leute Ich bin Nithin :person_with_blond_hair: I am Student , a newbie trying to get some knowledge on Data Science, i am pretty much excited working on Python and Data Science Projects. I love to study about Data Sciences. My dream Job is to become a Data Scientist in a well known company. Planning to move on to Germany ,my dream country.
+Hallo Leute Ich bin Nithin , I am Student , a newbie trying to get some knowledge on Data Science, i am pretty much excited working on Python and Data Science Projects. I love to study about Data Sciences. My dream Job is to become a Data Scientist in a well known company. Planning to move on to Germany ,my dream country.
 
 
 Skills: Python/Power BI/Data Analysis/Tableau
