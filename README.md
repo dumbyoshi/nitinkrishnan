@@ -18,7 +18,7 @@ Skills and Experiences\
 <hr>
 
 
-Projects i have worked:
+Some of the projects i have worked:
 <h1 align ="center">Customer's Review Analyzer</h1>
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/100270525/163029667-51f11b7a-1fcd-4e9b-8233-76fe06618acf.gif" width="400" height="200" />
