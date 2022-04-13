@@ -46,7 +46,7 @@ Some of the projects i have worked:
 
 <h1 align ="center">PDF to Excel Convertor</h1>
 <p align ="center">
-<img src="https://user-images.githubusercontent.com/100270525/163136982-3feaa580-d683-4ffd-af90-15c6e3f41088.gif)" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/100270525/163136982-3feaa580-d683-4ffd-af90-15c6e3f41088.gif" width="400" height="200" />
 </p>
 
 <hr>
