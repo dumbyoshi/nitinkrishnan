@@ -21,7 +21,3 @@ Skills and Experiences\
 
 <hr>
 
-
-Some of the projects i have worked:
-
-
